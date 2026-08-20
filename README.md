@@ -72,7 +72,3 @@ de recarregar do cartão da extensão.
 | `host_permissions` | Restrito a `*.youtube.com` e `youtu.be`. Não há acesso a nenhum outro site |
 
 <br>
-
-## Licença
-
-[MIT](LICENSE).
